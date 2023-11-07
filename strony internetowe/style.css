@@ -1,0 +1,21 @@
+img {
+  width: 300px;
+  border: rgb(255, 29, 29) 19px solid;
+}
+
+div{
+display: flex;
+justify-content: space-evenly;
+
+
+}
+
+#zdjece_1{
+  width: 300px;
+  border: rgb(6, 206, 217) 19px solid;
+}
+
+#zdjece_2{
+
+  border: rgb(237, 217, 4) 19px solid;
+}
